@@ -1,10 +1,18 @@
-# Third Person Platformer
+# UI HUD Studio Assignment
 
-A simple third person character controller in Unity
+Forked in the code for the Assignment 3 and added the following:
+
+* Animated and cleaned up score counter on the top right
+* Settings menu
+* Tutorial sign that is visible in game world,
 
 ## Demo
 
-https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
+
+
+https://github.com/user-attachments/assets/f659fb77-b341-45cc-a67e-b4c8158bfa14
+
+
 
 ## Cloning & Setting Up the Project
 
