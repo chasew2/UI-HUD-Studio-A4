@@ -2713,7 +2713,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -874577865, guid: e4f0dea1c70a83546ac364b163ea34f4, type: 3}
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4188,9 +4188,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1165002137}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6edf0a9dbfb18d14ca479728ea076b0e, type: 3}
+  m_Script: {fileID: 11500000, guid: 9f38d93a23649489491c125d3a54cd27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  current: {fileID: 1881684726}
+  toUpdate: {fileID: 235408339}
+  coinTextContainer: {fileID: 1500623579}
+  duration: 0.4
+  animationCurve: 0
 --- !u!1 &1175571808
 GameObject:
   m_ObjectHideFlags: 0
